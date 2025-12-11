@@ -1,16 +1,22 @@
-## Hi there 👋
+💫 About Me:
+I specialize in building dynamic, responsive user interfaces using React.js within the MERN stack. My workflow focuses on efficient state management using modern tools like Redux or the Context API. I design reusable components and integrate them seamlessly with Express and Node.js backend APIs. Ensuring cross-browser compatibility and mobile responsiveness is central to my development process. I am actively consuming RESTful services to fetch and display data dynamically from MongoDB. Performance optimization and clean code architecture are my top priorities for every project.
+I m looking to collaborate on dynamic real world projects.
 
-<!--
-**aakashr959/aakashr959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn X email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C CSS3 HTML5 Java JavaScript Windows Terminal TypeScript Vercel Netlify Express.js JWT NodeJS Nodemon React React Router Vite MongoDB MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+🔝 Top Contributed Repo
+
